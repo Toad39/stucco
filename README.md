@@ -1,0 +1,2 @@
+# stucco
+A discussion platform.
