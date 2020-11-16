@@ -1,3 +1,4 @@
-<span style="color:blue">some *blue* text</span>.
+# stucco is now moved to Gitlab, [here](https://gitlab.com/Toad39/stucco). This is abandoned.
+-----
 # stucco
 A discussion platform.
